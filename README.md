@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [WebHR](https://web.hr/)
 
-- 💬 Ask me about **PHP,Mysql,JavaScrpit**
+- 💬 Ask me about **PHP,Mysql,JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
